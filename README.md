@@ -1,6 +1,6 @@
 # Hi, I'm Reese St Amant
 
-Built with Logic | Refined by Aesthetics | Defined by UX
+**Built with Logic | Refined by Aesthetics | Defined by UX**
 
 ## Development
 [![Skills](https://skillicons.dev/icons?i=wordpress,php,js,nodejs,html,css,sass,git,github,vscode)](https://skillicons.dev)
