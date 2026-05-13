@@ -28,5 +28,5 @@ Technical Web Lead and Developer with a career that spans Hollywood production s
 ## Portfolio
 [bettameta.com](https://bettameta.com)
 
-## Contact
-[LinkedIn](https://linkedin.com/in/reese-st-amant) • [ibettameta@gmail.com](mailto:ibettameta@gmail.com)
+## Connect
+[LinkedIn](https://linkedin.com/in/reese-st-amant) • [IMDB](https://www.imdb.com/name/nm0820400/) • [ibettameta@gmail.com](mailto:ibettameta@gmail.com)
