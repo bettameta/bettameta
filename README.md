@@ -1,4 +1,4 @@
-# Hi, I'm Reese St Amant 👋
+# Hey there, I'm Reese St Amant
 
 Technical Web Lead & Developer at the intersection of design precision and infrastructure reliability.
 
