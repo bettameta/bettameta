@@ -2,7 +2,7 @@
 
 **Built with Logic | Refined by Aesthetics | Defined by UX**
 
-Technical Web Lead and Developer with a career that spans Hollywood production sets and modern web infrastructure. 30 years as a Key Set Master and Scenic Artist on productions including Grey's Anatomy, Desperate Housewives, Spider-Man, and Charlie's Angels shaped a discipline of zero-fail execution and high-stakes precision. That same standard now drives how I build, manage, and automate digital ecosystems for a growing portfolio of client sites, lookbooks, and presentation decks.
+Technical Web Lead and Developer with a background spanning Hollywood production sets and modern web infrastructure. As Key Set Master and Scenic Artist, — working productions including Spider-Man, Grey's Anatomy, and Zodiac — a discipline of zero-fail execution, high-stakes precision, and the patience to lead and collaborate under pressure was forged. That same standard now drives how I build, manage, and automate digital ecosystems for a growing portfolio of client sites, lookbooks, and presentation decks.
 
 ## Development
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
