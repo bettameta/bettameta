@@ -37,7 +37,9 @@ Technical Web Lead and Developer with a career that spans Hollywood production s
 - **[WordPress Site Monitor](https://github.com/bettameta/site-monitoring)** — Zero-cost automated monitoring for WordPress portfolios with Slack alerts, PageSpeed data, and monthly reporting
 
 ## Portfolio
-[bettameta.com](https://bettameta.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bettameta.com)
 
 ## Connect
-[LinkedIn](https://linkedin.com/in/reese-st-amant) • [IMDB](https://www.imdb.com/name/nm0820400/) • [ibettameta@gmail.com](mailto:ibettameta@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reese-st-amant)
+[![IMDB](https://img.shields.io/badge/IMDB-F5C518?style=for-the-badge&logo=imdb&logoColor=black)](https://www.imdb.com/name/nm0820400/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibettameta@gmail.com)
