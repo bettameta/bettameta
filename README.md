@@ -35,6 +35,7 @@ Technical Web Lead and Developer with a career that spans Hollywood production s
 
 ## Open Source
 **Zero-cost automated monitoring for WordPress portfolios with Slack alerts, PageSpeed data, and monthly reporting**
+
 **[WordPress Site Monitor](https://github.com/bettameta/site-monitoring)**
 
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://github.com/bettameta/site-monitoring/blob/main/LICENSE)
