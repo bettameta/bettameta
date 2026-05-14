@@ -34,7 +34,8 @@ Technical Web Lead and Developer with a career that spans Hollywood production s
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ## Open Source
-**[WordPress Site Monitor](https://github.com/bettameta/site-monitoring)** — Zero-cost automated monitoring for WordPress portfolios with Slack alerts, PageSpeed data, and monthly reporting
+[![Wordpress Site Monitor](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bettameta/site-monitoring)
+ — Zero-cost automated monitoring for WordPress portfolios with Slack alerts, PageSpeed data, and monthly reporting
 
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://github.com/bettameta/site-monitoring/blob/main/LICENSE)
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bettameta/site-monitoring)
