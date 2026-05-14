@@ -2,7 +2,7 @@
 
 **Built with Logic | Refined by Aesthetics | Defined by UX**
 
-Technical Web Lead and Developer at the intersection of design precision and infrastructure reliability. Former Hollywood production professional turned web architect — building and automating digital ecosystems for a growing portfolio of client sites. As Key Set Master and Scenic Artist, a discipline of zero-fail execution, high-stakes precision, and the patience to lead and collaborate under pressure was forged. That same standard now drives how I build, manage, and automate digital ecosystems for a growing portfolio of client sites, lookbooks, and presentation decks.
+Technical Web Lead and Developer at the intersection of design precision and infrastructure reliability. Former Hollywood production professional turned web architect — as Key Set Master and Scenic Artist, a discipline of zero-fail execution, high-stakes precision, and the patience to lead and collaborate under pressure was forged. That same standard now drives how I build, manage, and automate digital ecosystems for a growing portfolio of client sites, lookbooks, and presentation decks.
 
 ## Development
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
